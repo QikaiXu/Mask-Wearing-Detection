@@ -6,7 +6,7 @@
 
 项目介绍可以看 `torch_main.ipynb`。
 
-数据集下载：[datasets](https://wwe.lanzous.com/iZ7bYluahpi)。
+数据集下载：[datasets](https://wwd.lanzoub.com/iZ7bYluahpi)。放在蓝奏云上，域名可能经常会换，如果访问不了了，就更换一下前面的域名。用链接最后的一串 id 就能定位到。
 
 这里修改了 `torch_py/MobileNetV1.py` 中网络的结构。
 
